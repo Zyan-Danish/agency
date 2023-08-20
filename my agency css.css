@@ -1,0 +1,107 @@
+body{
+	font-family: 'Mukta', sans-serif;
+	background-color: #fbe106;
+	color: #000;
+}
+/*** NAVBAR ***/
+.nav-link{
+	color: #000;
+}
+div.fixed-top{
+	background-color: #fbe106;
+}
+#book-meeting{
+	color: white;
+}
+ul.navbar-nav{
+}
+#slogan{
+	font-size: 2.25vw;
+	font-family: 'Dancing Script', cursive;
+}
+/*** END NAVBAR ***/
+/*** FIRST CONTAINER ***/
+.brand-name{
+	font-family: 'Edu SA Beginner', cursive;
+	text-decoration: none;
+	color: #000;
+	margin-left: 10px;
+}
+.c1{
+	padding-bottom: 50px;
+	border-bottom: 1px solid black;
+}
+.img-fluid{
+	background-color: #fbe106;
+	height: 700px;
+	opacity: .75;
+	margin-left: 10px;
+	width: 636px;
+}
+div.main-heading{
+	margin-top: 200px;
+}
+h1{
+	text-align: center;
+}
+.main-heading-content{
+	text-align: center;
+}
+div a{
+	align-items: center;
+	justify-content: center;
+	display: block;
+}
+a.btn{
+	display: block;
+	border: 0px;
+}
+/*** SECOND CONTAINER ***/
+.c2{
+	background-color: #fdd128;
+	margin: 0px;
+	width: 100%;
+	padding-bottom: 25px;
+	border-bottom: 1px solid black;
+}
+#c2-firstline{
+	text-align: center;
+	padding-top: 50px;
+}
+#section-heading{
+	padding-bottom: 40px;
+}
+#services-content{
+	width: 300px;
+	height: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: 'Edu SA Beginner', cursive;
+	padding: 0px;
+	text-align: center;
+}
+#services-content-heading{
+	font-family: 'Roboto', sans-serif;
+
+}
+/*** THIRD CONTAINER ***/
+.c3-firstline{
+	padding-top: 60px;
+	text-align: center;
+}
+#chooseus{
+	text-align: center;
+	border: 2px solid black;
+}
+/***
+@media (min-width: 992px){
+	div.collapse{
+		position: relative;
+	}
+	ul.navbar-nav{
+		position: absolute;
+		left: 20px;
+		bottom: 20px;
+	}
+}
+***/
